@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Navbar from '../../components/shared/Navbar'
+import Navbar from '../../../components/shared/Navbar'
 
 class Categories extends Component {
   render() {
